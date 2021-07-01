@@ -18,4 +18,6 @@ Por intermédio dessas 2 partes a aplicação é capaz de ler o texto presente e
 
 Visto que o protótipo de aplicação cliente é apenas um protótipo (jura?) para demonstrar como seria a utilização de um TTS com o web service OCR, não foram aplicadas técnicas de acessibilidade para permitir a utilização por parte de pessoas com deficiências.
 
-## 🎉🎊🎈 TIRAMO 10!!! 🎈🎊🎉
+# 🎉🎊🎈 TIRAMO 10!!! 🎈🎊🎉
+<img alt="ganhamo" src="./client/public/assets/ganhamo.PNG" />
+<br>
